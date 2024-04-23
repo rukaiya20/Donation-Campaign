@@ -9,7 +9,7 @@ const Banner = () => {
     <div className="max-w-md">
       <h1 className="banner-text">I Grow By Helping People In Need</h1>
       <p className="mb-5 banner-text flex mt-10 ml-10">
-      <input type="text" placeholder="Search here" className="input w-full max-w-md relative"  />
+      <input type="text" placeholder="Search here" className="input w-full max-w-sm relative"  />
       <button className="btn btnInp absolute "> Search </button>
       </p>
       

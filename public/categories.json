@@ -1,0 +1,148 @@
+[
+    {
+      "id": 1,
+      "img": "https://i.ibb.co/v48h4cG/Health.png",
+      "title": "Medical Treatment Fund",
+      "categoryName": "Health",
+      "price": 2000,
+      "description": "Make a meaningful impact on someone's well-being with our Medical Checkup Sponsorship program. Your $20 donation will contribute to health checkups for individuals who may lack access to essential medical services. Regular health checkups are crucial for early detection and prevention of illnesses, fostering a healthier community. By supporting this initiative, you play a vital role in ensuring that everyone, regardless of their financial situation, can maintain good health. Join us in promoting wellness and contribute to building a community where healthcare is accessible to all."
+      ,
+      "categoryName_bg": "rgba(0, 82, 255, 0.15)",
+      "card_bg": "rgba(0, 82, 255, 0.15)",
+      "text_color": "#0052FF"
+    },
+    {
+      "id": 2,
+      "img": "https://i.ibb.co/vH7twhS/Education.png",
+      "title": "School Supplies Kit",
+      "categoryName": "Education",
+      "price": 1500,
+      "description": "Empower the future by supporting our School Supplies Kit project. A $15 donation will help provide essential tools for education, including notebooks, pens, pencils, and other materials crucial for a student's academic journey. By investing in education, you are investing in the potential of the next generation, breaking down barriers that hinder learning. Your contribution fosters an environment where every student has the necessary resources to succeed, promoting equality in education. Join us in this impactful initiative and help shape a brighter future for students, one school supplies kit at a time."
+      ,
+      "categoryName_bg": "rgba(255, 68, 74, 0.15)",
+      "card_bg": "rgba(255, 68, 74, 0.15)",
+      "text_color": "#FF444A"
+    },
+    {
+      "id": 3,
+      "img": "https://i.ibb.co/6r0yRM9/Clothing.png",
+      "title": "Warm Winter Clothes",
+      "categoryName": "Clothing",
+      "price": 1500,
+      "description": "Extend warmth and compassion to those in need with our Warm Winter Clothes donation. Your $25 support will provide essential winter clothing, including coats, sweaters, and blankets, to individuals facing the harsh cold. In the spirit of giving, help us ensure that everyone has the means to stay warm and comfortable during the colder months. Your generosity will make a tangible difference in the lives of those who may struggle to stay warm, fostering a sense of community care and solidarity. Join us in spreading warmth and making winter more bearable for those in need."
+      ,
+      "categoryName_bg": "rgba(121, 194, 63, 0.15)",
+      "card_bg": "rgba(121, 194, 63, 0.15)",
+      "text_color": "#79C23F"
+    },
+    {
+      "id": 4,
+      "img": "https://i.ibb.co/2gYM9LZ/Food.png",
+      "title": "Nutritious Meal Pack",
+      "categoryName": "Food",
+      "price": 1050,
+      "description": "Support our Nutritious Meal Pack initiative and make a positive impact on the lives of those facing hunger. Your donation of $10 will contribute to providing balanced and nourishing meals for individuals and families in need. By ensuring access to essential nutrients, we aim to address food insecurity and promote the belief that everyone deserves wholesome meals. Join us in this meaningful cause and help create a healthier and more resilient community. Your generosity can make a significant difference in the fight against hunger, fostering a sense of unity and compassion for those in need."
+      ,
+      "categoryName_bg": "rgba(248, 113, 71, 0.15) ",
+      "card_bg": " rgba(248, 113, 71, 0.15) ",
+      "text_color": "#F87147"
+    },
+    {
+      "id": 5,
+      "img": "https://i.ibb.co/2gYM9LZ/Food.png",
+      "title": "Nutritious Meal Pack",
+      "categoryName": "Food",
+      "price": 1500,
+      "description": "Support our Nutritious Meal Pack initiative and make a positive impact on the lives of those facing hunger. Your donation of $10 will contribute to providing balanced and nourishing meals for individuals and families in need. By ensuring access to essential nutrients, we aim to address food insecurity and promote the belief that everyone deserves wholesome meals. Join us in this meaningful cause and help create a healthier and more resilient community. Your generosity can make a significant difference in the fight against hunger, fostering a sense of unity and compassion for those in need."
+      ,
+      "categoryName_bg": "rgba(248, 113, 71, 0.15)",
+      "card_bg": "rgba(248, 113, 71, 0.15)",
+      "text_color": "#F87147"
+    },
+    {
+      "id": 6,
+      "img": "https://i.ibb.co/6r0yRM9/Clothing.png",
+      "title": "Warm Winter Clothes",
+      "categoryName": "Clothing",
+      "price": 1200,
+      "description": "Extend warmth and compassion to those in need with our Warm Winter Clothes donation. Your $25 support will provide essential winter clothing, including coats, sweaters, and blankets, to individuals facing the harsh cold. In the spirit of giving, help us ensure that everyone has the means to stay warm and comfortable during the colder months. Your generosity will make a tangible difference in the lives of those who may struggle to stay warm, fostering a sense of community care and solidarity. Join us in spreading warmth and making winter more bearable for those in need."
+      ,
+      "categoryName_bg": "rgba(121, 194, 63, 0.15)",
+      "card_bg": "rgba(121, 194, 63, 0.15)",
+      "text_color": "#79C23F"
+    },
+    {
+      "id": 7,
+      "img": "https://i.ibb.co/vH7twhS/Education.png",
+      "title": "School Supplies Kit",
+      "categoryName": "Education",
+      "price": 1550,
+      "description": "Empower the future by supporting our School Supplies Kit project. A $15 donation will help provide essential tools for education, including notebooks, pens, pencils, and other materials crucial for a student's academic journey. By investing in education, you are investing in the potential of the next generation, breaking down barriers that hinder learning. Your contribution fosters an environment where every student has the necessary resources to succeed, promoting equality in education. Join us in this impactful initiative and help shape a brighter future for students, one school supplies kit at a time."
+      ,
+      "categoryName_bg": "rgba(255, 68, 74, 0.15)",
+      "card_bg": "rgba(255, 68, 74, 0.15)",
+      "text_color": "#FF444A"
+    },
+    {
+      "id": 8,
+      "img": "https://i.ibb.co/v48h4cG/Health.png",
+      "title": "Medical Treatment Fund",
+      "categoryName": "Health",
+      "price": 2500,
+      "description": "Make a meaningful impact on someone's well-being with our Medical Checkup Sponsorship program. Your $20 donation will contribute to health checkups for individuals who may lack access to essential medical services. Regular health checkups are crucial for early detection and prevention of illnesses, fostering a healthier community. By supporting this initiative, you play a vital role in ensuring that everyone, regardless of their financial situation, can maintain good health. Join us in promoting wellness and contribute to building a community where healthcare is accessible to all."
+      ,
+      "categoryName_bg": "rgba(0, 82, 255, 0.15)",
+      "card_bg": "rgba(0, 82, 255, 0.15)",
+      "text_color": "#0052FF"
+    },
+    {
+      "id": 9,
+      "img": "https://i.ibb.co/v48h4cG/Health.png",
+      "title": "Medical Treatment Fund",
+      "categoryName": "Health",
+      "price": 2000,
+      "description": "Make a meaningful impact on someone's well-being with our Medical Checkup Sponsorship program. Your $20 donation will contribute to health checkups for individuals who may lack access to essential medical services. Regular health checkups are crucial for early detection and prevention of illnesses, fostering a healthier community. By supporting this initiative, you play a vital role in ensuring that everyone, regardless of their financial situation, can maintain good health. Join us in promoting wellness and contribute to building a community where healthcare is accessible to all."
+      ,
+      "categoryName_bg": "rgba(0, 82, 255, 0.15)",
+      "card_bg": "rgba(0, 82, 255, 0.15)",
+      "text_color": "#0052FF"
+    },
+    {
+      "id": 10,
+      "img": "https://i.ibb.co/vH7twhS/Education.png",
+      "title": "School Supplies Kit",
+      "categoryName": "Education",
+      "price": 1800,
+      "description": "Empower the future by supporting our School Supplies Kit project. A $15 donation will help provide essential tools for education, including notebooks, pens, pencils, and other materials crucial for a student's academic journey. By investing in education, you are investing in the potential of the next generation, breaking down barriers that hinder learning. Your contribution fosters an environment where every student has the necessary resources to succeed, promoting equality in education. Join us in this impactful initiative and help shape a brighter future for students, one school supplies kit at a time."
+      ,
+      "categoryName_bg": "rgba(255, 68, 74, 0.15)",
+      "card_bg": "rgba(255, 68, 74, 0.15)",
+      "text_color": "#FF444A"
+    },
+    {
+      "id": 11,
+      "img": "https://i.ibb.co/6r0yRM9/Clothing.png",
+      "title": "Warm Winter Clothes",
+      "categoryName": "Clothing",
+      "price": 1250,
+      "description": "Extend warmth and compassion to those in need with our Warm Winter Clothes donation. Your $25 support will provide essential winter clothing, including coats, sweaters, and blankets, to individuals facing the harsh cold. In the spirit of giving, help us ensure that everyone has the means to stay warm and comfortable during the colder months. Your generosity will make a tangible difference in the lives of those who may struggle to stay warm, fostering a sense of community care and solidarity. Join us in spreading warmth and making winter more bearable for those in need."
+      ,
+      "categoryName_bg": "rgba(121, 194, 63, 0.15)",
+      "card_bg": "rgba(121, 194, 63, 0.15)",
+      "text_color": "#79C23F"
+    },
+    {
+      "id": 12,
+      "img": "https://i.ibb.co/2gYM9LZ/Food.png",
+      "title": "Nutritious Meal Pack",
+      "categoryName": "Food",
+      "price": 1020,
+      "description": "Support our Nutritious Meal Pack initiative and make a positive impact on the lives of those facing hunger. Your donation of $10 will contribute to providing balanced and nourishing meals for individuals and families in need. By ensuring access to essential nutrients, we aim to address food insecurity and promote the belief that everyone deserves wholesome meals. Join us in this meaningful cause and help create a healthier and more resilient community. Your generosity can make a significant difference in the fight against hunger, fostering a sense of unity and compassion for those in need."
+      ,
+      "categoryName_bg": "rgba(248, 113, 71, 0.15)",
+      "card_bg": "rgba(248, 113, 71, 0.15)",
+      "text_color": "#F87147"
+    }
+    
+  ]
+  

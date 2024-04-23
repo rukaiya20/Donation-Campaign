@@ -8,7 +8,7 @@ import {
 } from "react-router-dom";
 import Root from './components/Root/Root.jsx';
 import Home from './components/Home/Home.jsx';
-import Donation from './components/Donation/Donation.jsx';
+import DonateList from './components/DonateList/DonateList.jsx';
 import Statistics from './components/Statistics/Statistics.jsx';
 
 
@@ -23,7 +23,7 @@ const router = createBrowserRouter([
       },
       {
         path: "/donation",
-        element: <Donation></Donation>,
+        element: <DonateList></DonateList>,
       },
       {
         path: "/statistics",

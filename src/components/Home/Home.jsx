@@ -1,12 +1,12 @@
 import Banner from "../Banner/Banner";
-import Navbar from "../Navbar/Navbar";
-// import './Home.css'
+import DonateCategories from "../DonateCategories/DonateCategories";
+
 
 const Home = () => {
     return (
         <div className="">
-            {/* <Navbar></Navbar> */}
             <Banner></Banner>
+            <DonateCategories className='mt-28'></DonateCategories>
         </div>
     );
 };
