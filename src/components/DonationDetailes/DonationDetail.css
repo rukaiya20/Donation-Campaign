@@ -1,0 +1,31 @@
+.titel-text{
+    color: #0B0B0B;
+    font-family: Inter;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    }
+.description-text{
+    color: rgba(11, 11, 11, 0.70);
+    text-align: justify;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px; 
+}
+.donate-btn {
+    bottom: 40px;
+    left: 63px;
+    border-radius: 4px;
+    background: #FF444A;
+    padding: 16px 26px;
+    color: #FFF;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+
+}
